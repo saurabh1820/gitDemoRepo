@@ -9,5 +9,8 @@ public class GitDemo {
 		System.out.println("Git Demo");
 		System.out.println("Git Demo 1");
 		System.out.println("Git Demo 2");
+		System.out.println("Git Demo");
+		System.out.println("Git Demo 1");
+		System.out.println("Git Demo 2");
 	}
 }
